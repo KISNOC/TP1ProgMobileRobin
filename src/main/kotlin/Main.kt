@@ -2,7 +2,6 @@ import kotlin.random.Random
 
 fun main(args: Array<String>) {
     val nomPersonage = arrayOf("Vishea", "Gayalle", "Bearsard", "Querri")
-    var numberCycle = 0;
     var nomSexe: String = ""
     var sexe: Int = -1
     var nomClasse: String = ""
